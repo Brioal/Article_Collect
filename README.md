@@ -6,4 +6,4 @@
 
 3. [Win10镜像安装net3.5方法](https://github.com/Brioal/Article_Collect/blob/master/Win10%E9%95%9C%E5%83%8F%E5%AE%89%E8%A3%85net3.5.md)
 
-4. [TextInputLayout字数统计功能实现]()
+4. [TextInputLayout字数统计功能实现](https://github.com/Brioal/Article_Collect/blob/master/TextInputLayout%E5%AD%97%E6%95%B0%E7%BB%9F%E8%AE%A1%E5%8A%9F%E8%83%BD.md)
