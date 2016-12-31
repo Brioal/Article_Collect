@@ -2,7 +2,6 @@
 ## 效果图：
 ![](http://123.206.20.217/brioalcode/up//72173d2d215ce34821134f795f8de4ae364.png)
 
-[ToolBar按钮颜色修正方法](#jump)
 ### 从左到右分别为`navigationIcon`,`Logo`,标题，副标题，内嵌的`View`,`ContextMenu`,下文将依次介绍各自的使用方式:
 ### 前提：
  1. 推荐使用`android.support.v7.widget.Toolbar`包下的ToolBar，兼容性更好
@@ -107,7 +106,7 @@ app:subtitleTextColor="@android:color/white"
             }
         });
  ```
- <span id = "jump"></span>
+
 ### 设置显示按钮的颜色和展开的文字颜色(同样适用于显示返回按钮自定义按钮颜色)
 #### `style`文件
 ```
