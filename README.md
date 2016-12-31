@@ -7,3 +7,4 @@
 3. [Win10镜像安装net3.5方法](https://github.com/Brioal/Article_Collect/blob/master/Win10%E9%95%9C%E5%83%8F%E5%AE%89%E8%A3%85net3.5.md)
 
 4. [TextInputLayout字数统计功能实现](https://github.com/Brioal/Article_Collect/blob/master/TextInputLayout%E5%AD%97%E6%95%B0%E7%BB%9F%E8%AE%A1%E5%8A%9F%E8%83%BD.md)
+5. [ToolBar使用详解+ToolBar按钮颜色修正方法](https://github.com/Brioal/Article_Collect/blob/master/ToolBar%e4%bd%bf%e7%94%a8%e8%af%a6%e8%a7%a3%2bToolBar%e6%8c%89%e9%92%ae%e9%a2%9c%e8%89%b2%e4%bf%ae%e6%ad%a3%e6%96%b9%e6%b3%95.md)
