@@ -22,26 +22,26 @@ app:navigationIcon="@drawable/ic_navi"
          });
  ```
 
- ## 二.`Logo`
- ### xml属性设置
+## 二.`Logo`
+### xml属性设置
  ```
 app:logo="@drawable/ic_navi"
  ```
 
- ## 三. 标题，副标题
- ### xml设置
+## 三. 标题，副标题
+### xml设置
  ```
  app:title="标题"
  app:subtitle="副标题"
  ```
- ### 字体颜色设置
+### 字体颜色设置
  ```
 app:titleTextColor="@android:color/white"
 app:subtitleTextColor="@android:color/white"
  ```
 
- ## 四 . `View`
- ### ToolBar其实是一个ViewGroup，所以直接在`xml`中添加即可
+## 四 . `View`
+### ToolBar其实是一个ViewGroup，所以直接在`xml`中添加即可
  ```
  <android.support.v7.widget.Toolbar
          android:layout_width="match_parent"
@@ -59,8 +59,8 @@ app:subtitleTextColor="@android:color/white"
      </android.support.v7.widget.Toolbar>
  ```
 
- ## 五.`ContextMenu`
- ### `menu`文件
+## 五.`ContextMenu`
+### `menu`文件
  ```
  <?xml version="1.0" encoding="utf-8"?>
  <menu xmlns:android="http://schemas.android.com/apk/res/android"
@@ -89,7 +89,7 @@ app:subtitleTextColor="@android:color/white"
          />
  </menu>
  ```
- ### 设置菜单显示与点击事件
+### 设置菜单显示与点击事件
  ```
  //添加溢出菜单
         toolbar.inflateMenu(R.menu.setting_menu);
