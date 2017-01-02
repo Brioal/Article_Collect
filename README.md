@@ -8,3 +8,4 @@
 
 4. [TextInputLayout字数统计功能实现](https://github.com/Brioal/Article_Collect/blob/master/TextInputLayout%E5%AD%97%E6%95%B0%E7%BB%9F%E8%AE%A1%E5%8A%9F%E8%83%BD.md)
 5. [ToolBar使用详解+ToolBar按钮颜色修正方法](https://github.com/Brioal/Article_Collect/blob/master/ToolBar%e4%bd%bf%e7%94%a8%e8%af%a6%e8%a7%a3%2bToolBar%e6%8c%89%e9%92%ae%e9%a2%9c%e8%89%b2%e4%bf%ae%e6%ad%a3%e6%96%b9%e6%b3%95.md)
+6. [实现View滑动的七种方式记录](https://github.com/Brioal/Article_Collect/blob/master/%e5%ae%9e%e7%8e%b0View%e6%bb%91%e5%8a%a8%e7%9a%84%e4%b8%83%e7%a7%8d%e6%96%b9%e5%bc%8f%e8%ae%b0%e5%bd%95.md)
