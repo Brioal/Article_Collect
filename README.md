@@ -13,4 +13,6 @@
 
 7. [Linux下配置Java环境变量](https://github.com/Brioal/Article_Collect/blob/master/Linux%e9%85%8d%e7%bd%aejava%e7%8e%af%e5%a2%83.md)
 
+8. [带有清空按钮的EditText开源库](https://github.com/Brioal/Article_Collect/blob/master/%e5%b8%a6%e6%9c%89%e6%b8%85%e7%a9%ba%e6%8c%89%e9%92%ae%e7%9a%84EditText%e5%bc%80%e6%ba%90%e5%ba%93.md)
+
 

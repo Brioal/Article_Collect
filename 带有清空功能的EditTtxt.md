@@ -1,8 +1,8 @@
 # 带有清空按钮的EditText开源库
 ## 效果图：
-![](http://123.206.20.217/brioalcode/up//b6ff659665651d74d2b4977337a26321594.png)
+![](http://123.206.20.217/brioalcode/up//a68fe9d30fba23a7a4a7b74d6f470467843.gif)
 ### 基本介绍如下:
-![](http://123.206.20.217/brioalcode/up//b6ff659665651d74d2b4977337a26321594.png)
+![](http://123.206.20.217/brioalcode/up//78ae2ee8be443990db2a51c491fe2363282.png)
 ### 使用方式：
 ### 一.添加库依赖
 #### 1. 项目的`build.gradle`下添加
