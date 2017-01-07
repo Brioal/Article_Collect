@@ -15,4 +15,9 @@
 
 8. [带有清空按钮的EditText开源库](https://github.com/Brioal/Article_Collect/blob/master/%e5%b8%a6%e6%9c%89%e6%b8%85%e7%a9%ba%e5%8a%9f%e8%83%bd%e7%9a%84EditTtxt.md)
 
+9. [组件设置setCompoundDrawables不生效解决办法](https://github.com/Brioal/Article_Collect/blob/master/%e7%bb%84%e4%bb%b6%e8%ae%be%e7%bd%aesetCompoundDrawables%e4%b8%8d%e7%94%9f%e6%95%88%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95.md)
+
+10. [获取组件当中某个Drawable所在的坐标范围](https://github.com/Brioal/Article_Collect/blob/master/%e8%8e%b7%e5%8f%96%e7%bb%84%e4%bb%b6%e5%bd%93%e4%b8%ad%e6%9f%90%e4%b8%aaDrawable%e6%89%80%e5%9c%a8%e7%9a%84%e5%9d%90%e6%a0%87%e8%8c%83%e5%9b%b4.md)
+11. [共享动画的实现（AndroidL及以上）](https://github.com/Brioal/Article_Collect/blob/master/%e5%85%b1%e4%ba%ab%e5%8a%a8%e7%94%bb%e7%9a%84%e5%ae%9e%e7%8e%b0%ef%bc%88AndroidL%e5%8f%8a%e4%bb%a5%e4%b8%8a%ef%bc%89.md)
+
 
